@@ -1,0 +1,15 @@
+h1  {
+	font-size: 1em;
+	font-weight: bolder;
+}
+body  {
+	font-family: source-sans-pro;
+	font-style: normal;
+	font-weight: 200;
+	background-image: url(../url);
+}
+h2 {
+	font-style: italic;
+	font-size: 1em;
+	font-weight: bold;
+}
